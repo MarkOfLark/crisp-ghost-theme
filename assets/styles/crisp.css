@@ -156,6 +156,9 @@ header #logo img {
 #follow-icons a {
 	color: #ccc;
 }
+#follow-icons a:hover {
+	color: #5d7dc3;
+}
 #follow-icons span {
 	vertical-align:top;
 	margin-left:-0.15em;
@@ -204,6 +207,9 @@ h3.post-title {
 	border-radius:0.25em;
 	-moz-border-radius: 0.25em;
 	-webkit-border-radius: 0.25em;
+}
+.taglist a:hover {
+	background-color: #5d7dc3;
 }
 #social-bar {
 	margin-top:1.5em;
