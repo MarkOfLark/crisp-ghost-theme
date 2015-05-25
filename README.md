@@ -10,8 +10,9 @@ Changed:
 * Added "Tagged:" to tag view title
 * Added "Share:" above share icons on post pages
 
-See original [README](https://raw.github.com/kathyqian/crisp-ghost-theme/master/README.md) for installation instructions.
+See original [README](https://github.com/kathyqian/crisp-ghost-theme/blob/master/README.md) for installation instructions.
 
 ### Screenshots
-![Post](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/post.png)
-![Comments](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/post-2.png)
+![main_page](https://raw.github.com/markoflark/crisp-ghost-theme/master/screenshots/main_page_tag_highlight.png)
+![post_footer](https://raw.github.com/markoflark/crisp-ghost-theme/master/screenshots/post_footer.png)
+![tag_list](https://raw.github.com/markoflark/crisp-ghost-theme/master/screenshots/tag_list.png)
