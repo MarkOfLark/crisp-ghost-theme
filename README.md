@@ -6,7 +6,7 @@ Changed:
 * link color to blue
 * Disabled comments
 * Added tag and follow icon hover color
-* Added tag cloud
+* <s>Added tag cloud</s>
 * Added "Tagged:" to tag view title
 * Added "Share:" above share icons on post pages
 
