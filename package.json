@@ -1,11 +1,8 @@
 {
-    "name"        : "Crisp-MarkOfLark",
-    "version"     : "0.1.0",
+    "name"        : "Crisp",
+    "version"     : "0.5.0",
     "description" : "A minimalist, responsive, and open-source theme for Ghost",
     "author"      : "Kathy Qian",
-    "contributors": [{
-      "name"      : "Mark Elias McDermott"
-      }],
-    "homepage"    : "https://github.com/MarkOfLark/crisp-ghost-theme",
+    "homepage"    : "https://github.com/kathyqian/crisp-ghost-theme",
 		"license"     : "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
 }
