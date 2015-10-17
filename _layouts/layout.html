@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+{% include head.html %}
+<body class="{{body_class}}">
+  <header id="header">
+    {{#if @blog.logo}}<a id="logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>{{/if}}
+    <h1><a href="{{@blog.url}}">{{@blog.title}}</a></h1>
+    <p>{{@blog.description}}</p>
+    {{> follow}}
+    {{navigation}}
+  </header>
+  <main id="content">
+    {{ content }}
+  </main>
+  <footer id="footer">
+    <section id="footer-message">&copy; {{date format='YYYY'}} {{@blog.title}}. All rights reserved. Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. <a href="https://github.com/markoflark/crisp-jekyll-theme" target="_blank">Theme</a> ported from <a href="https://github.com/kathyqian/crisp-ghost-theme" target="_blank">Crisp</a> theme by <a href="http://kathyqian.com" target="_blank">Kathy Qian</a>.</section>
+  </footer>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+
+</html>
